@@ -18,6 +18,10 @@ a {
     text-decoration: none;
 }
 
+.nav span {
+    font-weight: bolder;
+}
+
 .nav a {
     margin: 0rem 1rem;
 }
@@ -44,13 +48,6 @@ a {
 
 .reg-btn:hover {
     background-color: rgb(48, 67, 172);
-    border: none;
-    border-radius: 0.5rem;
-    color: white;
-    padding: 15px 32px;
-    text-align: center;
-    display: inline-block;
-    font-size: 16px;
 }
 
 .nav-right .nav-item {
@@ -106,15 +103,21 @@ a {
 }
 
 .logos {
+    display: flex;
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
 }
 
 .logo {
-    height: 7vh;
+    /* height: 7vh; */
+    width: 12%;
     margin: 2rem;
-    filter: grayscale(100%)
+    filter: grayscale(100%);
+}
+
+.logo:hover {
+    filter: grayscale(0%);
 }
 
 .check-icon {
@@ -129,7 +132,7 @@ a {
 
 .check-icon img {
     height: 5vh;
-    color: white;
+    /* color: white; */
     /* margin-top: 6rem; */
 }
 
@@ -139,6 +142,7 @@ a {
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
+    padding: 4rem 0rem;
 
 }
 
@@ -153,11 +157,88 @@ a {
 }
 
 .sec4 {
-
     display: flex;
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
     background-color: #FFF3DE;
+}
 
+.sec6 {
+    background-color: #3C58F0;
+    color: white;
+}
+
+.sec6 .reg-btn {
+    background-color: rgb(48, 67, 172);
+}
+
+.sec6 .reg-btn:hover {
+    background-color: rgb(25, 38, 116);
+}
+
+.benefits {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.benefits-content {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    width: 25%;
+    font-size: 12px
+}
+
+.benefits-content img {
+    height: 4vh;
+    margin: 4rem 1rem;
+}
+
+.footer{
+    display: flex;
+    flex-direction: column;
+}
+
+.upper-footer{
+    display: flex;
+    flex-direction: row;
+    padding: 1.2rem 6rem;
+    background-color: #2B388F;
+}
+
+.footer-content p{
+    margin: 0.7rem 0rem;
+}
+
+.footer-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 20%;
+    color: white;
+    font-size: 13px;
+    padding: 1rem;
+
+}
+
+.footer-title{
+    font-weight: bolder;
+    margin: 1.2rem 0rem;
+}
+
+.lower-footer p{
+    margin: 0rem;
+}
+
+.lower-footer{
+    padding: 1rem;
+    text-align: center;
+    color: rgb(95, 95, 95);
+    font-size: 12px;
 }
