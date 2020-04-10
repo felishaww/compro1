@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="382" height="734" viewBox="0 0 382 734">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_32" data-name="Rectangle 32" width="382" height="734" transform="translate(0 141)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Group_56" data-name="Group 56" transform="translate(0 -141)">
+    <g id="Mask_Group_1" data-name="Mask Group 1" clip-path="url(#clip-path)">
+      <circle id="Ellipse_30" data-name="Ellipse 30" cx="360" cy="360" r="360" transform="translate(-338 155)" fill="#3c58f0"/>
+    </g>
+    <g id="Group_55" data-name="Group 55" transform="translate(-733 133)">
+      <circle id="Ellipse_29" data-name="Ellipse 29" cx="9.5" cy="9.5" r="9.5" transform="translate(768 176)" fill="#fff"/>
+      <circle id="Ellipse_29-2" data-name="Ellipse 29" cx="9.5" cy="9.5" r="9.5" transform="translate(831 176)" fill="#fff"/>
+      <circle id="Ellipse_29-3" data-name="Ellipse 29" cx="10" cy="10" r="10" transform="translate(894 176)" fill="#fff"/>
+      <circle id="Ellipse_29-4" data-name="Ellipse 29" cx="9.5" cy="9.5" r="9.5" transform="translate(958 176)" fill="#fff"/>
+      <circle id="Ellipse_29-5" data-name="Ellipse 29" cx="9.5" cy="9.5" r="9.5" transform="translate(768 239)" fill="#fff"/>
+      <circle id="Ellipse_29-6" data-name="Ellipse 29" cx="9.5" cy="9.5" r="9.5" transform="translate(831 239)" fill="#fff"/>
+      <circle id="Ellipse_29-7" data-name="Ellipse 29" cx="10" cy="10" r="10" transform="translate(894 239)" fill="#fff"/>
+      <circle id="Ellipse_29-8" data-name="Ellipse 29" cx="9.5" cy="9.5" r="9.5" transform="translate(958 239)" fill="#fff"/>
+      <circle id="Ellipse_29-9" data-name="Ellipse 29" cx="9.5" cy="9.5" r="9.5" transform="translate(768 302)" fill="#fff"/>
+      <circle id="Ellipse_29-10" data-name="Ellipse 29" cx="9.5" cy="9.5" r="9.5" transform="translate(831 302)" fill="#fff"/>
+      <circle id="Ellipse_29-11" data-name="Ellipse 29" cx="10" cy="10" r="10" transform="translate(894 302)" fill="#fff"/>
+      <circle id="Ellipse_29-12" data-name="Ellipse 29" cx="9.5" cy="9.5" r="9.5" transform="translate(958 302)" fill="#fff"/>
+      <circle id="Ellipse_29-13" data-name="Ellipse 29" cx="9.5" cy="9.5" r="9.5" transform="translate(768 366)" fill="#fff"/>
+      <circle id="Ellipse_29-14" data-name="Ellipse 29" cx="9.5" cy="9.5" r="9.5" transform="translate(831 366)" fill="#fff"/>
+      <ellipse id="Ellipse_29-15" data-name="Ellipse 29" cx="10" cy="9.5" rx="10" ry="9.5" transform="translate(894 366)" fill="#fff"/>
+      <circle id="Ellipse_29-16" data-name="Ellipse 29" cx="9.5" cy="9.5" r="9.5" transform="translate(958 366)" fill="#fff"/>
+      <circle id="Ellipse_29-17" data-name="Ellipse 29" cx="9.5" cy="9.5" r="9.5" transform="translate(768 429)" fill="#fff"/>
+      <circle id="Ellipse_29-18" data-name="Ellipse 29" cx="9.5" cy="9.5" r="9.5" transform="translate(831 429)" fill="#fff"/>
+      <ellipse id="Ellipse_29-19" data-name="Ellipse 29" cx="10" cy="9.5" rx="10" ry="9.5" transform="translate(894 429)" fill="#fff"/>
+      <circle id="Ellipse_29-20" data-name="Ellipse 29" cx="9.5" cy="9.5" r="9.5" transform="translate(958 429)" fill="#fff"/>
+      <circle id="Ellipse_29-21" data-name="Ellipse 29" cx="9.5" cy="9.5" r="9.5" transform="translate(768 492)" fill="#fff"/>
+      <circle id="Ellipse_29-22" data-name="Ellipse 29" cx="9.5" cy="9.5" r="9.5" transform="translate(831 492)" fill="#fff"/>
+      <ellipse id="Ellipse_29-23" data-name="Ellipse 29" cx="10" cy="9.5" rx="10" ry="9.5" transform="translate(894 492)" fill="#fff"/>
+      <circle id="Ellipse_29-24" data-name="Ellipse 29" cx="9.5" cy="9.5" r="9.5" transform="translate(958 492)" fill="#fff"/>
+      <circle id="Ellipse_29-25" data-name="Ellipse 29" cx="9.5" cy="9.5" r="9.5" transform="translate(768 554)" fill="#fff"/>
+      <circle id="Ellipse_29-26" data-name="Ellipse 29" cx="9.5" cy="9.5" r="9.5" transform="translate(831 554)" fill="#fff"/>
+      <circle id="Ellipse_29-27" data-name="Ellipse 29" cx="10" cy="10" r="10" transform="translate(894 554)" fill="#fff"/>
+      <circle id="Ellipse_29-28" data-name="Ellipse 29" cx="9.5" cy="9.5" r="9.5" transform="translate(958 554)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
